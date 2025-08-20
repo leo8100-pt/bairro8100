@@ -1092,3 +1092,13 @@ http://85.195.234.99:9981/stream/channelid/1217824809
 http://85.195.234.99:9981/stream/channelid/1046635518
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ABOLATV.png" group-title="PORTUGAL",A BOLA TV (Copyright © 2018 by TeamBlue)
 http://85.195.234.99:9981/stream/channelid/1624238912
+#EXTINF:-1 tvg-id="SportTV5.pt" tvg-logo="sporttv5.png" group-title="DESPORTO",[COLOR orange][I][B]SportTV 5 FULL HD[/B][/I][/COLOR] ON
+http://iptvbox.noip.us:9998/live/atik/atik/824.m3u8
+#EXTINF:-1 tvg-id="SportTV5.pt" tvg-logo="sporttv5.png" group-title="DESPORTO",[COLOR orange][I][B]SportTV 5 SD[/B][/I][/COLOR] ON
+http://bit.ly/1RTpXgX
+#EXTINF:-1 tvg-id="SportTV5.pt" tvg-logo="sporttv5.png" group-title="DESPORTO",[COLOR orange][I][B]SportTV 5 SD[/B][/I][/COLOR] ON
+http://ns1.mydnspt.com:9511/live/00021/061115fubu/24.m3u8
+#EXTINF:-1 tvg-id="SportTV5.pt" tvg-logo="sporttv5.png" group-title="DESPORTO",[COLOR orange][I][B]SportTV 5 SD[/B][/I][/COLOR] ON
+http://iptv-supplier.com:8000/live/halim1/halim1/2298.ts
+#EXTINF:-1 tvg-id="SportTV5.pt" tvg-logo="sporttv5.png" group-title="DESPORTO",[COLOR orange][I][B]SportTV 5 SD[/B][/I][/COLOR] ON
+http://ipsatpro.com:8000/live/jetmir/jetmir/884.ts
