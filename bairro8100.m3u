@@ -476,6 +476,8 @@ http://xxip9.top:8080/Gizvid192@giz.com/1234@4321/167748
 http://xxip9.top:8080/Gizvid192@giz.com/1234@4321/167749
 #EXTINF:-1 tvg-logo="https://imgur.com/P0QLHvF.png" group-title="Canais | INTERNACIONAL",Eleven sports 4 FHD
 http://xxip9.top:8080/Gizvid192@giz.com/1234@4321/167750
+#EXTINF:0,Sport TV 5
+https://213-167-154-115.netvarp.is/beint/sporttv5/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jhFxUc1.png" group-title="Canais | INTERNACIONAL",TV5 Mond
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3600001Q1_20240611T061844SQUARE.png" group-title="Canais | INTERNACIONAL",LA LIGA
@@ -1048,7 +1050,3 @@ http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt21308698.mp4
 http://fhd1.oneplayer.site/343rt342wtg34wetg34retg4rghy5rh/FHD3/tt0377818.mp4
 #EXTINF:-1 tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Mais um Besteirol ao Extremo
 http://fhd1.oneplayer.site/ertg43r5g34ty34yt543t43wer234t34y3s7/FHD10/tt0806147.mp4
-
-
-#EXTINF:0,Sport TV 5
-https://213-167-154-115.netvarp.is/beint/sporttv5/mono.m3u8
